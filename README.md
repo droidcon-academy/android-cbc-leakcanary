@@ -1,2 +1,2 @@
 # Study materials and source code for **Droidcon Academy** course 
-> # Add Course Name 
+> # Detecting Memory Leaks with LeakCanary in Android
